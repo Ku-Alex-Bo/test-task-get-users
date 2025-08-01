@@ -18,7 +18,7 @@ git clone https://github.com/Ku-Alex-Bo/test-task-get-users/
 cd test-task-get-users/
 ```
 
-2. **Создайте вирутальное окружение:**
+2. **Создайте виртальное окружение:**
 ```bash
 setup-venv
 ```
